@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     石磊
-zhihu_username:     石磊
-github_username:    石磊
-twitter_username:   石磊
+# weibo_username:     石磊
+# zhihu_username:     石磊
+# github_username:    solvep
+# twitter_username:   石磊
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 

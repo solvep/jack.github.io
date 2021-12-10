@@ -1,4 +1,4 @@
-\---
+---
 
 layout:   post
 
@@ -16,9 +16,9 @@ header-style: text
 
 tags:
 
- \- Linux
+ - Linux
 
-\---
+---
 
 Rockchip GPIO函数调用，控制LED
 

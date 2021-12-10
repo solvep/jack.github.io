@@ -1,4 +1,4 @@
-\---
+---
 
 layout:   post
 
@@ -16,9 +16,9 @@ header-style: text
 
 tags:
 
- \- Linux
+ - Linux
 
-\---
+---
 
 ## Makefile Kconfig 和 .config 的关系
 
